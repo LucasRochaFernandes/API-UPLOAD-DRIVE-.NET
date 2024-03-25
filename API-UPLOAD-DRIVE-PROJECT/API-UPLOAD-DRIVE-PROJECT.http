@@ -1,0 +1,6 @@
+@API_UPLOAD_DRIVE_PROJECT_HostAddress = http://localhost:5016
+
+GET {{API_UPLOAD_DRIVE_PROJECT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
